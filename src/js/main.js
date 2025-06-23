@@ -2,6 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
   const botao = document.getElementById('btn')
 
   botao.addEventListener('click', function() {
-    window.location.href = '../public/bilhete.html'
+    window.location.href = 'bilhete.html'
   })
 })
